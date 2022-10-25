@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticaAdivNum</string>
+    <string name="tvwIntentos">Intentos restantes: 5 </string>
+    <string name="tvwInicio">Debes adivinar el número secreto entre 1y 100. Tienes 5 intentos.</string>
+    <string name="btnPrueba">PRUEBA ESTE NÚMERO</string>
+    <string name="mayor">El número es mayor que el que has elegido</string>
+    <string name="menor">El número es menor que el que ha elegido</string>
+    <string name="enhorabuena">Enhorabuena has acertado el numero</string>
+    <string name="perdiste">Perdiste, se acabaron los intentos.El número secreto era: %1$d</string>
+    <string name="tvwIntentosModificado">"Intentos restantes: %1$d"</string>
+    <string name="et_numero_hint">Intruduce un número</string>
+    <string name="btnJuegoTerminado">JUEGO TERMINADO</string>
+    <string name="introduceNumero">Número vacio introduce número</string>
+</resources>
